@@ -1,2 +1,2 @@
 # nocubicleinnovates
-Company website for new nocubicleinnovates
+Company website for nocubicleinnovates
